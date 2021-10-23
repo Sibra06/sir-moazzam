@@ -48,7 +48,28 @@
         <input type="checkbox" name="hobbies" value="Others"/>Others
         <input type="text" size="10" maxlength="30">
     </p>
-    
+    <p>QUALIFICATION:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Percentage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year of Passing</p>
+    <p></p>
+    <OL>
+        <li>CLASS X:
+            &nbsp;&nbsp;&nbsp;<input type="text" size="20" maxlength="10">
+            <input type="text" size="20" maxlength="5">
+            <input type="text" size="20" maxlength="10">
+        </li><br>
+        <li>CLASS XII: 
+            <input type="text" size="20" maxlength="10">
+            <input type="text" size="20" maxlength="5">
+            <input type="text" size="20" maxlength="10"> </li><br>
+        <li>Graduation: 
+            &nbsp;<input type="text" size="20" maxlength="10"> 
+            <input type="text" size="20" maxlength="5">
+            <input type="text" size="20" maxlength="10"></li><br>
+        <li>Masters: 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="20" maxlength="10">
+            <input type="text" size="20" maxlength="5">
+            <input type="text" size="20" maxlength="10"> </li>
+    </OL>
+
     </form>
 </body>
 </html>
